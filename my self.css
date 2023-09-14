@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.heading{
+    
+    height: 56px;
+    background-color: rgb(200, 243, 243);
+    
+}
+.logo{
+    height: 50px;
+    
+    padding: 3px 3px;
+}
+.name{
+    font-size: 20px;
+    font-style: italic;
+    color: yellow;
+    float: left;
+    padding-left: 20px;
+    padding-top: 50px ;
+}
+#basicintro{
+    background-color: darkgrey;
+    height: 600px;
+    width: 50%;
+    float: left;
+ 
+}
+#someinfor{
+    display: flex;
+    padding-left: 250px;
+    padding-top: 10px;
+    color: white;
+    padding-top: 50px ;
+}
+.Videos{
+    padding-left: 20px ;
+}
+.Photos{
+    padding-left: 20px ;
+}
+.Contact{
+    padding-left: 20px ;
+}
+.Contact a{
+    text-decoration: none;
+    color: white;
+}
+.Contact a:hover{
+   
+    color: rgb(204, 111, 36);
+}
+.hey{
+    
+font-size: 40px;
+padding-left: 25%;
+color: yellow;
+padding-top: 25% ;
+}
+.hey .Name{
+    font-style: italic;
+    font-size: 70px;
+    padding:0 ;
+    color: white;
+}
+#proffession{
+    
+    font-size: 20px;
+    padding-left: 25%;
+    color: yellow;
+    padding-top:10px;
+    }
+#shiimg{
+    height: 600px;
+    width: 50%;
+}
+#about_myself{
+   
+    text-align: center;
+    background-color: antiquewhite;
+    height: 20em;
+    padding: 5em 5em;
+}
+#a_my{
+    font-size: 50px;
+    color: rgb(89, 89, 146);
+}
+#intro{
+    margin-top: 35px;
+    
+    padding-left: 250px;
+    padding-right: 250px;
+}
+#hobby{
+    margin-top: 20px;
+    
+    padding-left: 250px;
+    padding-right: 250px;
+}
+#goal{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+#shires{
+    font-size: 30px;
+    
+    background-color:rgb(249, 249, 90) ;
+    text-decoration: none;
+    border-radius: 5px;
+   
+
+}
+
